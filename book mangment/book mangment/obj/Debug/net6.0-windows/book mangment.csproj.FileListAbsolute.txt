@@ -1,0 +1,30 @@
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\book mangment.exe
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\book mangment.deps.json
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\book mangment.runtimeconfig.json
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\book mangment.dll
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\book mangment.pdb
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.csproj.AssemblyReference.cache
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book_mangment.Form1.resources
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book_mangment.Properties.Resources.resources
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.csproj.GenerateResource.cache
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.AssemblyInfoInputs.cache
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.AssemblyInfo.cs
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.csproj.CoreCompileInputs.cache
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.dll
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\refint\book mangment.dll
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.pdb
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.genruntimeconfig.cache
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\ref\book mangment.dll
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projects\backend_projects\first\book mangment\book mangment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book mangment.csproj.CopyComplete
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book_mangment.addBook.resources
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book_mangment.Addsuccess.resources
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book_mangment.Detailscs.resources
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book_mangment.welcome.resources
+D:\projects\backend_projects\first\book mangment\book mangment\obj\Debug\net6.0-windows\book_mangment.signupcs.resources
