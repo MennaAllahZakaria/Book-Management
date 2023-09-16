@@ -2,7 +2,7 @@
 ### Application of book management to store the information of books
 ## This is the backend project of .net with c# 
 
-### The app has
+### Features:
 - #### Sign Up
   - name
   - user name (must be unique )
